@@ -1,6 +1,6 @@
 name = "cfnext3"
 main = "_worker.js"
-compatibility_date = "2024-11-01"
+compatibility_date = "2026-11-06"
 
 [vars]
 L = "mmcy6666"

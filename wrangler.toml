@@ -1,10 +1,10 @@
-name = "GitHub仓库名"
+name = "cfnext3"
 main = "_worker.js"
 compatibility_date = "2024-11-01"
 
 [vars]
-L = "你的登录路径"
+L = "mmcy6666"
 
 [[kv_namespaces]]
 binding = "K"
-id = "你的KV空间ID"
+id = "cfnext311"

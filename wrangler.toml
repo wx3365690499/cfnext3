@@ -1,0 +1,10 @@
+name = "cfnext3"
+main = "_worker.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+L = "mmcy"
+
+[[kv_namespaces]]
+binding = "K"
+id = "3a94fe62958744c6b0040b742482350e"
